@@ -14,7 +14,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This Project is nick-named "The Amazon Slayer", and has Jeff Bezos shaking in his boots. While this might be a bit of over-exageration it's functionality is getting there! Keep track of all your inventory, by category, product or even tags![Click here for Walkthrough Video] ("https://drive.google.com/file/d/1SRLFBRaYJRo9ZWkJqF-qORRb_DDS0DxA/view")
+This Project is nick-named "The Amazon Slayer", and has Jeff Bezos shaking in his boots. While this might be a bit of over-exageration it's functionality is getting there! Keep track of all your inventory, by category, product or even tags!
+
+[Click here for Walkthrough Video]("https://drive.google.com/file/d/1SRLFBRaYJRo9ZWkJqF-qORRb_DDS0DxA/view") 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,7 +82,7 @@ Fabian Gutierrez - [fabiangutierrez580@gmail.com]
 (LinkedIn) - [www.linkedin.com/in/fabian-gutierrez-016523248]
 
 
-Project Link: []
+Project Link: [https://github.com/Guccierrez/EcommerceBackEnd]
 
 
 
