@@ -16,7 +16,7 @@
 
 This Project is nick-named "The Amazon Slayer", and has Jeff Bezos shaking in his boots. While this might be a bit of over-exageration it's functionality is getting there! Keep track of all your inventory, by category, product or even tags!
 
-[Click here for Walkthrough Video]("https://drive.google.com/file/d/1SRLFBRaYJRo9ZWkJqF-qORRb_DDS0DxA/view") 
+Click here for Walkthrough Video or on image at the top => ("https://drive.google.com/file/d/1SRLFBRaYJRo9ZWkJqF-qORRb_DDS0DxA/view") 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
